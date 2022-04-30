@@ -1,0 +1,10 @@
+C:\Users\zodia\source\repos\DangNhapUsers\DangNhapUsers\bin\Debug\DangNhapUsers.exe.config
+C:\Users\zodia\source\repos\DangNhapUsers\DangNhapUsers\bin\Debug\DangNhapUsers.exe
+C:\Users\zodia\source\repos\DangNhapUsers\DangNhapUsers\bin\Debug\DangNhapUsers.pdb
+C:\Users\zodia\source\repos\DangNhapUsers\DangNhapUsers\obj\Debug\DangNhapUsers.csproj.AssemblyReference.cache
+C:\Users\zodia\source\repos\DangNhapUsers\DangNhapUsers\obj\Debug\DangNhapUsers.Form1.resources
+C:\Users\zodia\source\repos\DangNhapUsers\DangNhapUsers\obj\Debug\DangNhapUsers.Properties.Resources.resources
+C:\Users\zodia\source\repos\DangNhapUsers\DangNhapUsers\obj\Debug\DangNhapUsers.csproj.GenerateResource.cache
+C:\Users\zodia\source\repos\DangNhapUsers\DangNhapUsers\obj\Debug\DangNhapUsers.csproj.CoreCompileInputs.cache
+C:\Users\zodia\source\repos\DangNhapUsers\DangNhapUsers\obj\Debug\DangNhapUsers.exe
+C:\Users\zodia\source\repos\DangNhapUsers\DangNhapUsers\obj\Debug\DangNhapUsers.pdb
